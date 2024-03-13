@@ -60,12 +60,29 @@ game, C) Change game settings such as volume, resolution/window size,
 fullscreen/windowed
 
 (Hayden)
-1. 
-2. 
-3. ...
-4. ...
-5. ...
-6. ...
+1. VA01: Import 2D and 3D assets from an external program into a game engine,
+the asset must show in a level and be visible in the ‘game world’. 2D
+Image must show transparency. 3D Asset must be unwrapped, textured, and
+also show transparency.
+2. VA02: Import and work with sprite sheet animations into a game engine.
+Sprite sheet must loop in its animation, and demonstrate transparency.
+Also look into how to make sprites not loop and only play once.
+Spritesheet must be visible when the game is running.
+3. VA03: Import a 3D animated object, and have its animation looped in the
+running game. Also look into how to make the animation a ‘one shot’ (plays
+only once).
+4. VA07: Create a 3D ‘arena’ or room, using only the engine, without any
+external programs. Plugins or addons are allowed. There needs to be a
+minimum of 5 materials/textures created in the engine that are applied to
+the arena/room.
+5. VA09: Create a 3D dark room, and demonstrate various different lighting
+objects. This needs to be visible in the running game. Explore ways to
+achieve volumetric light to see if your engine supports it. Also explore
+light emitting materials.
+6. VA06: Create one permanent/looping particle system, and one ‘one shot’
+particle system, within the engine itself. The particles must demonstrate
+transparency, no shadows, and a custom texture/image, and motion. This
+needs to be visible in the running game.
 
 
 ___
