@@ -84,7 +84,6 @@ particle system, within the engine itself. The particles must demonstrate
 transparency, no shadows, and a custom texture/image, and motion. This
 needs to be visible in the running game.
 
-
 ___
 # Section 2: Tool Selection Questions
 - Q: Which Game Engine did your group decide to use for this task? Why?
