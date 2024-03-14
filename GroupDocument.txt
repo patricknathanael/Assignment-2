@@ -24,13 +24,18 @@ the skills/task list template))
 6. ...
 ...
 (Sudhish)
-1. XX##: ((copy/paste the whole description + item code on the left from
-the skills/task list template))
-2. 
-3. ...
-4. ...
-5. ...
-6. ...
+1. VA01: Import 2D and 3D assets from an external program into a game engine, the asset must show in a level and be visible in the ‘game world’. 2D
+Image must show transparency. 3D Asset must be unwrapped, textured, and also show transparency
+2. VA07:Create a 3D ‘arena’ or room, using only the engine, without any external programs. Plugins or addons are allowed. There needs to be a
+minimum of 5 materials/textures created in the engine that are applied to the arena/room.
+3. AU01:Import sound files into the engine. Figure out a way to trigger one-shot sounds, and have looping sounds. You will also need to figure out
+how to trigger the sounds when the user interacts in the game with either a keypress or mouse click.
+4. PR01:UI Programming. Set up a basic canvas, and hook into the button click events (with the mouse, but you’re welcome to explore keyboard or
+gamepad events too).
+5. PR06: Physics programming: React to a collision event and create an object at the collision location. A sound effect needs to also play when the
+collision happens
+6. PR10: Game mechanics: You can discuss a mechanic with your tutor and come up with your own! Objects deleting when they have zero health,
+increasing a global score variable when certain conditions are met, etc...
 7. ... (yes you can add,or change skills as you go, but make notes if you
 skipped or stopped a skill attempt)
 (Luke)
