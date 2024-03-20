@@ -15,13 +15,18 @@ ___
 List each team member and their selected skills they intend to explore for
 this project.
 (Patrick)
-1. XX##: ((copy/paste the whole description + item code on the left from
-the skills/task list template))
-2.
-3. ...
-4. ...
-5. ...
-6. ...
+1. VA01: Import 2D and 3D assets from an external program into a game engine, the asset must show in a level and be visible in the ‘game world’. 2D
+Image must show transparency. 3D Asset must be unwrapped, textured, and also show transparency.
+2. VA02: Import and work with sprite sheet animations into a game engine. Sprite sheet must loop in its animation, and demonstrate transparency.
+Also look into how to make sprites not loop and only play once. Spritesheet must be visible when the game is running.
+3. AU01: Import sound files into the engine. Figure out a way to trigger one-shot sounds, and have looping sounds. You will also need to figure out
+how to trigger the sounds when the user interacts in the game with either a keypress or mouse click.
+4. PR01: UI Programming. Set up a basic canvas, and hook into the button click events (with the mouse, but you’re welcome to explore keyboard or
+gamepad events too).
+5. PR02: Object manipulation. React to user inputs (such as mouse click or keyboard/gamepad) to do each of the following, with different events for::
+A) Hide/show a game object. B) Create/instantiate a game object. C) Delete/destroy a game object.
+6. VA05: Animate using keyframes for 2D and 3D objects *within* the game engine itself (not using an external program). These animations need to
+be able to play in the running game. (Note that not all engines support an in-editor animator, so this option may not be available to you).
 ...
 (Sudhish)
 1. VA01: Import 2D and 3D assets from an external program into a game engine, the asset must show in a level and be visible in the ‘game world’. 2D
